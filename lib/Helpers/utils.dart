@@ -4,7 +4,7 @@ import 'package:permission_handler/permission_handler.dart';
 import 'package:flutter_share/flutter_share.dart';
 
 String getAgoraAppId() {
-  return "<YOUR APP ID HERE>"; // Return Your Agora App Id
+  return "61438953af52487ca4af581f5c6ff0a2"; // Return Your Agora App Id
 }
 
 checkNoSignleDigit(int no) {

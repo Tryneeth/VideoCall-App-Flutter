@@ -26,6 +26,14 @@
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
+	<key>NSCameraUsageDescription</key>
+	<string>The app needs it</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>The App Needs It</string>
+	<key>NSDocumentsFolderUsageDescription</key>
+	<string>This app needs it</string>
+	<key>io.flutter.embedded_views_preview</key>
+	<string>yes</string>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>

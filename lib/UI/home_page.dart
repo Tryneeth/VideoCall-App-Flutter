@@ -155,16 +155,6 @@ class HomePage extends StatelessWidget {
           ),
         ],
       ),
-      floatingActionButton: FloatingActionButton(
-        backgroundColor: const Color(0xFF1A1E78),
-        child: Icon(Icons.thumb_up_alt_outlined),
-        onPressed: () {
-          Get.snackbar("You Liked ?", "Please ★ My Project On Git :) ",
-              backgroundColor: Colors.white,
-              colorText: Color(0xFF1A1E78),
-              snackPosition: SnackPosition.BOTTOM);
-        },
-      ),
     );
   }
 }
